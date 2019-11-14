@@ -1,2 +1,0 @@
-https://www.codepolitan.com/rest-api-client-sederhana-dengan-retrofit-pada-android-studio-58986d62c46ae
-https://square.github.io/retrofit/
