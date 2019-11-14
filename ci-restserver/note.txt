@@ -1,0 +1,2 @@
+https://www.codepolitan.com/rest-api-server-sederhana-dengan-codeigniter-58901f324a29f
+https://github.com/ardisaurus/ci-restserver
